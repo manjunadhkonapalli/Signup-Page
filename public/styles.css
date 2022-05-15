@@ -1,0 +1,37 @@
+body{
+    background-color: #ffffff;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    user-select: none;
+}
+ .text-center{
+    
+    margin:1% auto 0;
+    width:30%;
+} 
+
+.pic{
+    width: 50px;
+    border-radius: 50px;
+}
+
+.content{
+    padding: 2% 10% 3%;
+    text-align: left;
+    background-color:rgb(255, 255, 255);
+}
+
+@media only screen and (min-width: 481px) and (max-width: 767px) {
+
+    .text-center{
+    
+        margin:auto;
+        width:80%;
+    } 
+
+}
