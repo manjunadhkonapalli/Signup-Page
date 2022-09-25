@@ -1,2 +1,2 @@
-# Signup-Page-assgnmt
-An internshala assignment.
+# Signup-Page
+A minor project for self practice
